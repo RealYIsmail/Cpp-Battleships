@@ -13,3 +13,7 @@ This is done by connecting to the main battleships file, which when run will cre
 2.) Connect to the application by changing the constant variable "IP_ADDRESS_SERVER" to the IP address of the host.
 
 3.) Host can now run the .exe application and commence the game.
+
+# How-to-install
+
+Just download the zip file from this repository. 
